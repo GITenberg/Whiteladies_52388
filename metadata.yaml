@@ -1,0 +1,32 @@
+_repo: Whiteladies_52388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Olyphant, Mrs.
+    - Oliphant, Margaret Oliphant Wilson
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Mrs. (Margaret) Oliphant
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2016-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Whiteladies
+url: http://www.gutenberg.org/ebooks/52388
